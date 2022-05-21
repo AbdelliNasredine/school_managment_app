@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "331176321653",
+    "project_id": "school-managment-app-ce827",
+    "storage_bucket": "school-managment-app-ce827.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331176321653:android:41156688e9b5e9fca1ce3c",
+        "android_client_info": {
+          "package_name": "com.example.gestion_ecole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331176321653-dieaqssj6l17iq573glvbvh67r9p3qba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3NjC2gu7e97TzU9zQxJCDY3G8EgP4R-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331176321653-dieaqssj6l17iq573glvbvh67r9p3qba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "331176321653-nmou8s3k5p1rbbotugap4df6g5a6f0p7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gestionEcole"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331176321653:android:b2a1d2cb337d49f6a1ce3c",
+        "android_client_info": {
+          "package_name": "com.example.school_managment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331176321653-dieaqssj6l17iq573glvbvh67r9p3qba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3NjC2gu7e97TzU9zQxJCDY3G8EgP4R-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331176321653-dieaqssj6l17iq573glvbvh67r9p3qba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "331176321653-nmou8s3k5p1rbbotugap4df6g5a6f0p7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gestionEcole"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
